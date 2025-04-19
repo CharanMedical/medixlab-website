@@ -1,6 +1,0 @@
-<h2>Staff Login</h2>
-<form action="admin.html">
-  <input type="text" placeholder="Username" required /><br>
-  <input type="password" placeholder="Password" required /><br>
-  <button type="submit">Login</button>
-</form>
