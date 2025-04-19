@@ -1,0 +1,7 @@
+<h2>Admin Dashboard</h2>
+<p>Welcome, staff!</p>
+<ul>
+  <li>View Appointments</li>
+  <li>Check Messages</li>
+  <li>Update Prices</li>
+</ul>

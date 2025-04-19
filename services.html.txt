@@ -1,0 +1,7 @@
+<h2>Our Services</h2>
+<ul class="service-list">
+  <li><strong>Blood Tests</strong> - Accurate blood analysis</li>
+  <li><strong>X-Ray</strong> - High-resolution digital imaging</li>
+  <li><strong>ECG</strong> - Heart monitoring and analysis</li>
+  <li><strong>COVID-19 Test</strong> - RT-PCR and Rapid Antigen</li>
+</ul>
