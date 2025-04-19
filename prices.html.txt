@@ -1,7 +1,0 @@
-<h2>Test Prices</h2>
-<table>
-  <tr><th>Test</th><th>Price (₹)</th></tr>
-  <tr><td>Complete Blood Count</td><td>500</td></tr>
-  <tr><td>Lipid Profile</td><td>800</td></tr>
-  <tr><td>Thyroid Panel</td><td>900</td></tr>
-</table>
